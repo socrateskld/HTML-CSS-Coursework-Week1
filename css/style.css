@@ -8,7 +8,7 @@
  */
 .title {
     background: rgb(181,182,190);
-    background: radial-gradient(circle, rgb(4, 12, 96) 0%,rgb(86, 9, 4) 100%);
+    background: radial-gradient(circle, rgb(54, 59, 84) 0%,rgb(24, 3, 2) 100%);
     color: cornsilk;
     padding: 5%;
     font-size: 400%;
@@ -29,11 +29,11 @@
     padding: 2%;
 }
 .electronicMusic h1 {
-    font-size: 150%;
+    font-size: 170%;
     text-align-last: center;
 }
 .electronicMusic p {
-    font-size: 90%;
+    font-size: 100%;
  }
  .genres {
     background: rgb(181,182,190);
@@ -46,9 +46,45 @@
 }
 .genres h2 {
     text-align-last: center;
+    font-size: 120%;
 }
 .genres li {
     text-align: center;
     list-style-position: inside;
     list-style-type: none;
+}
+.taste {
+    background: rgb(181,182,190);
+    background: radial-gradient(circle, rgb(54, 59, 84) 0%,rgb(24, 3, 2) 100%);
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    padding: 4%;
+}
+.taste h2 {
+    text-align-last: center;
+    font-size: 200%;
+    color: cornsilk;
+}
+.video {
+    display: block;
+    margin: auto;
+}
+.footer {
+    background: rgb(181,182,190);
+    background: radial-gradient(circle, rgb(151, 154, 171) 0%,rgb(24, 3, 2) 100%);
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    padding: 1%;
+}
+.footer p {
+    font-size: 200%;
+    text-align-last: center;
+    color: cornsilk;
+}
+.listen-live {
+    display: block;
+    margin: auto;
+    width: 15%;
 }
